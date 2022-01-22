@@ -1,8 +1,10 @@
-<<<<<<< HEAD
-=======
 # Election Analysis
-## Overview of Election Analysis
-
+## Overview of Election Audit
+I have been tasked with helping Tom, an employee for the Colorado Board of Elections. Tom is handling an election audit on a congressional precinct in the state. Thus far we have calculated and submitted various metrics; total number of votes, list of candidates and their assigned votes, the percentage of overall votes each candidate received along with the winning candidate. In order to complete the audit the election commission has requested some additional information:
+- The votes tallied for each county
+- The percentage of overall votes from each county
+- The county with the highest voter turnout
+ 
 ### Methods
 1.
 2.
@@ -10,7 +12,7 @@
 4.
 5
 
-## Election Analysis Results
+## Election Audit Results
 
-## Election Analysis Summary
->>>>>>> 20bb8dc2ff864f7a70bea32260e1fe3f85c25bef
+## Election Audit Summary
+
