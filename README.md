@@ -5,12 +5,13 @@ I have been tasked with helping Tom, an employee for the Colorado Board of Elect
 - The percentage of overall votes from each county
 - The county with the highest voter turnout
  
-### Methods
-1.
-2.
-3.
+### Methods Used
+1. Data: election_results.csv
+2. Python 3.10.1 was used to import  the csv file
+3. Variables assigned in order to use imported data and to write text file for results.
 4.
-5
+5.
+6.
 
 ## Election Audit Results
 
