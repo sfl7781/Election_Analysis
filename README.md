@@ -12,11 +12,13 @@ I have been tasked with helping Tom, an employee for the Colorado Board of Elect
 
 ## Election Audit Results
 ***County***
- - Total Votes Cast - *369,711*
+ - **Total Votes Cast** - ***369,711***
+ 
  - Votes by County and % of overall votes received.
    - **Jefferson 10.5%** (*38,855*)
    - **Denver 82.8%** (*306,055*)
    - **Arapahoe 6.7%** (*24,801*)
+ 
  - **Denver County** received the most votes
 
 ***Candidates***
