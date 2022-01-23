@@ -5,10 +5,11 @@ I have been tasked with helping Tom, an employee for the Colorado Board of Elect
 - The percentage of overall votes from each county
 - The county with the highest voter turnout
  
-### Execution Methods
+### Methodology
 1. Data used: election_results.csv; CSV file was supplied and included Ballot ID(used to sum votes), County and Candidate Name 
 2. Python 3.10.1 was used to import the csv file and write the code
 3. Code was written to automate metrics requested in 'Overview' and outputted into a text file for easier consumption of results.
+#### [View code](PyPoll_Challenge.py.md)
 
 ## Election Audit Results
 ***County***
@@ -30,11 +31,7 @@ I have been tasked with helping Tom, an employee for the Colorado Board of Elect
 - *Winning Candidate*
   - ***Diana DeGette*** with ***73.8%*** of the votes
     - She received ***272,892*** of the overall votes
-  - 
-
-
-
-[Text file of Results](Analysis/election_results.txt)
+#### [Election Results](Analysis/election_results.txt)
 
 ## Election Audit Summary
 
