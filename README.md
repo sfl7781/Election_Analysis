@@ -11,10 +11,28 @@ I have been tasked with helping Tom, an employee for the Colorado Board of Elect
 3. Code was written to automate metrics requested in 'Overview' and outputted into a text file for easier consumption of results.
 
 ## Election Audit Results
+***County***
+ - Total Votes Cast - *369,711*
+ - Votes by County and % of overall votes received.
+   - **Jefferson 10.5%** (*38,855*)
+   - **Denver 82.8%** (*306,055*)
+   - **Arapahoe 6.7%** (*24,801*)
+ - **Denver County** received the most votes
+
+***Candidates***
+- Votes by Candidate and % of overall votes received.
+  - **Charles Casper Stockham 23%** (*85,213*)
+  - **Diana DeGette 73.8%** (*272,892*)
+  - **Raymon Anthony Doane 3.1%** (*11,606*)
+
+- *Winning Candidate*
+  - ***Diana DeGette*** with ***73.8%*** of the votes
+    - She received ***272,892*** of the overall votes
+  - 
 
 
 
-
+[Text file of Results](Analysis/election_results.txt)
 
 ## Election Audit Summary
 
