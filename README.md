@@ -28,7 +28,7 @@ I have been tasked with helping Tom, an employee for the Colorado Board of Elect
   - **Diana DeGette 73.8%** (*272,892*)
   - **Raymon Anthony Doane 3.1%** (*11,606*)
 
-- *Winning Candidate*
+- ***Winning Candidate***
   - ***Diana DeGette*** with ***73.8%*** of the votes
     - She received ***272,892*** of the overall votes
 #### [Election Results](Analysis/election_results.txt)
