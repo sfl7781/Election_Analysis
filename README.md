@@ -34,9 +34,10 @@ I have been tasked with helping Tom, an employee for the Colorado Board of Elect
 #### [Election Results](Analysis/election_results.txt)
 
 ## Election Audit Summary
-Since the code was written to directly pull from the csv file used, this script can be 
+Since the code was written to directly pull from the csv file supplied, this script can be 
 interchangeable with essentially any location that provides the same type of data.
 Furthermore it can be modified for data that includes demographics such as age, gender, ethnicity, 
-religion or education with some adjustment to the assigned variables to see which voters are more 
+religion, education or registered party with some adjustment to the assigned variables and mirroring 
+of the code written for the County and Candidate metrics, to see which voters are more 
 prevalent than others. This could assist with statistical analysis while possibly enhancing the 
 campaign strategies of existing and future candidates.
