@@ -9,7 +9,7 @@ I have been tasked with helping Tom, an employee for the Colorado Board of Elect
 1. Data used: election_results.csv; CSV file was supplied and included Ballot ID(used to sum votes), County and Candidate Name 
 2. Python 3.10.1 was used to import the csv file and write the code
 3. Code was written to automate metrics requested in 'Overview' and outputted into a text file for easier consumption of results.
-#### [View code](PyPoll_Challenge.py.md)
+#### [View code](PyPoll_Challenge.py)
 
 ## Election Audit Results
 ***County***
